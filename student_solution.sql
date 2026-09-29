@@ -1,4 +1,5 @@
-use VIBEDB;
+USE VIBEDB;
+
 INSERT INTO Student (StudentID, StudentName, Gender, DepartmentID)
 VALUES
 (1001, 'Arun', 'Male', 101),
